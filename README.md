@@ -14,7 +14,7 @@
 
 ## Education
 Graduated in Biological sciences at Universidade Estadual do Norte Fluminense Darcy Ribeiro (UENF) <br/>
-Master student in Bioinformatics at Universidade Fedderal de Minas Gerais (UFMG) <br/>
+Master student in Bioinformatics at Universidade Federal de Minas Gerais (UFMG) <br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSilvaH&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
