@@ -8,7 +8,7 @@
 ## Biological topics of interest 
 ### Transcriptomics | Structural Biology | Cancer | Drug repurposing
 - Transcriptomic-based score indexes to phenotypes
-- Structural and molecular biomarkers in cancer]
+- Structural and molecular biomarkers in cancer
 - Structural analysis to drug repurposing
 
 ## Education
